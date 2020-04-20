@@ -1,10 +1,11 @@
 
 /***************************************************************************
- *   v4l2grab Version 0.3                                                  *
- *   Copyright (C) 2012 by Tobias Müller                                   *
- *   Tobias_Mueller@twam.info                                              *
+ *   v4l2-multigrab Version 0.1                                            *
+ *   Copyright (C) 2020 by Analí Alfaro 				   *
+ *    aalfaroa@pucp.edu.pe                                                 *
  *                                                                         *
- *   based on V4L2 Specification and the example code of Tobias Müller,
+ *                                                                         *
+ *   based on V4L2 Specification and the code example of Tobias Müller,
  *   Appendix B: Video Capture Example                                     *
  *   (http://v4l2spec.bytesex.org/spec/capture-example.html) 
  *   https://github.com/twam/v4l2grab  
