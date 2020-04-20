@@ -3,7 +3,7 @@
 This code allow to record using multi-cameras, the code example use only 2 cameras.
 If you want more cameras you only need add more camera objects in the code.
 
-In order to execute the v4l2-multigrab you need to follow the next commands:
+In order to execute the v4l2-multigrab you need to follow the next commands(Ubuntu):
 
  ./compilarMultigrab.sh (compilation file)
 
